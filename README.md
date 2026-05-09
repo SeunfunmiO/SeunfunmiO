@@ -31,6 +31,9 @@ Debugging, Refactoring, Performance Optimization, App Logic Design, Cross-platfo
 
 ## 🚀 Featured Projects
 
+### 1. [SpendWise](https://github.com/SeunfunmiO/spendwise)
+SpendWise helps you take control of your money - track your income and expenses, set budget goals, and visualize your spending habits with an intuitive dashboard
+
 ### 1. [NovaPay NG Dashboard](https://github.com/SeunfunmiO/novaPay)
 A full-featured banking dashboard built with **React and Node.js**. Includes real-time transaction updates, authentication, and a polished UI.  
 

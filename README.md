@@ -84,10 +84,9 @@ Production-ready burger shop platform with end-to-end ordering — delivery or p
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SeunfunmiO&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00C9B1&icon_color=1A6DFF&text_color=ffffff" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeunfunmiO&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00C9B1&text_color=ffffff" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SeunfunmiO&theme=dark&hide_border=true&background=0d1117&ring=00C9B1&fire=1A6DFF&currStreakLabel=00C9B1" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeunfunmiO&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00C9B1&text_color=ffffff&langs_count=6" height="165"/>
 </div>
-
 ---
 
 <div align="center">

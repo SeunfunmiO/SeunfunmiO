@@ -34,16 +34,16 @@ Debugging, Refactoring, Performance Optimization, App Logic Design, Cross-platfo
 ### 1. [SpendWise](https://github.com/SeunfunmiO/spendwise)
 SpendWise helps you take control of your money - track your income and expenses, set budget goals, and visualize your spending habits with an intuitive dashboard
 
-### 1. [NovaPay NG Dashboard](https://github.com/SeunfunmiO/novaPay)
+### 2. [NovaPay NG Dashboard](https://github.com/SeunfunmiO/novaPay)
 A full-featured banking dashboard built with **React and Node.js**. Includes real-time transaction updates, authentication, and a polished UI.  
 
-### 2. [Her Cycle Bloom](https://github.com/SeunfunmiO/her_cycle_bloom)
+### 3. [Her Cycle Bloom](https://github.com/SeunfunmiO/her_cycle_bloom)
 A cycle tracking app built with JavaScript and Firebase. Implements period prediction, flow tracking, and responsive design.  
 
-### 3. [Stacked and Loaded Burger](https://github.com/SeunfunmiO/Stacked_and_Loaded_Burger)
+### 4. [Stacked and Loaded Burger](https://github.com/SeunfunmiO/Stacked_and_Loaded_Burger)
 A TypeScript-based web app for a burger restaurant. Features dynamic menu, ordering interface, and responsive UI.  
 
-### 4. [Urbangraphtees](https://github.com/SeunfunmiO/urbangraphtees)
+### 5. [Urbangraphtees](https://github.com/SeunfunmiO/urbangraphtees)
 E-commerce clothing brand website built with TypeScript, React, and Tailwind CSS. Responsive design and clean UI for showcasing products.  
 
 ---

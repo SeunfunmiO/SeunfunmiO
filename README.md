@@ -10,7 +10,7 @@
 
 ## About Me
 
-I'm a frontend/full-stack developer based in **Lagos State, Nigeria**, currently interning as a Full Web Developer at **Lullitcloud**. I build fast, accessible, production-ready web applications using modern JavaScript tooling — with a focus on real-world impact and clean, maintainable code.
+I'm a frontend/full-stack developer based in **Lagos State, Nigeria**, currently interning as a Full Web Developer at **Lullitcloud**. I build fast, accessible, production-ready web applications using modern JavaScript tooling with a focus on real-world impact and clean, maintainable code.
 
 - 🎓 B.Tech Physics — Ladoke Akintola University of Technology (LAUTECH)
 - 💼 Full Web Developer Intern @ Lullitcloud
